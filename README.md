@@ -6,6 +6,8 @@ Proyecto Sprint 7
 
 Este proyecto es una **aplicación web** construida con **Streamlit**, que permite a los usuarios explorar interactivamente un conjunto de datos de anuncios de venta de vehículos (`vehicles_us.csv`).
 
+[Haz click en el sigueinte enlace](https://proyecto-sprint-7-2min.onrender.com)
+
 ## Funcionalidad de la Aplicación
 
 La aplicación ofrece las siguientes funcionalidades:
